@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordEditText</string>
+    <string name="label_show">Show</string>
+    <string name="label_hide">Hide</string>
+    <string name="label_password">Password</string>
+    <string name="label_save_password">Remember password</string>
+</resources>
